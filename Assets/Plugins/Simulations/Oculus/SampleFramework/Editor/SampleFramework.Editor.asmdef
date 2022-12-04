@@ -1,0 +1,19 @@
+{
+    "name": "SampleFramework.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e85a2fbba2a974def96c403c2a6c1e00",
+        "GUID:f64c9ebcd7899c3448a08dc9f9ddbe30"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+{
+    "name": "inspirit.plugins.bng.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f7a0ce317129b4bc39f9548d61a42a8c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
